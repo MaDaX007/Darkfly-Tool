@@ -29,4 +29,6 @@ how to update:
 for update this tool, just do the reinstallation, the first way is to install the Darkfly tools, by reinstalling, the old file will be deleted and replaced with the new one installed.
 
 note
-the DarkFly tools on linux does not working# Darkfly-Tool
+the DarkFly tools on linux is not working# Darkfly-Tool
+
+gh repo clone Ranginang67/DarkFly-Tool
